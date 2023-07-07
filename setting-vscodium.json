@@ -1,0 +1,82 @@
+{
+  "workbench.panel.defaultLocation": "right",
+
+  "editor.accessibilitySupport": "off",
+  "codeium.enableConfig": {
+    "*": true,
+    "rust": false,
+    "javascript": false
+  },
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "vscode-great-icons",
+  "python.terminal.activateEnvironment": false,
+  "python.venvPath": "~/.pyenv/versions",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.fontSize": 14,
+  "oneDarkPro.bold": true,
+  "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+  "oneDarkPro.editorTheme": "One Dark Pro Darker",
+
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[python]": {
+    "editor.bracketPairColorization.enabled": false,
+    "editor.guides.bracketPairs": false,
+    "editor.tabSize": 4
+  },
+  "syntax.debugHover": true,
+  "syntax.highlightTerms": [
+    // "type",
+    // "scope",
+    // "function",
+    // "variable",
+    // "number",
+    // "string",
+    // "comment",
+    // "constant",
+    // "directive",
+    // "control",
+    // "operator",
+    // "modifier",
+    // "punctuation"
+  ],
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "vim.leader": " ",
+  "vim.neovimPath": "/usr/local/bin/nvim",
+  "vim.shell": "/bin/zsh",
+  "vim.statusBarColorControl": true,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#a0aef2",
+    "statusBar.noFolderBackground": "#a0aef2",
+    "statusBar.debuggingBackground": "#a0aef2",
+    "statusBar.foreground": "#17191e"
+  },
+  "vim.enableNeovim": true,
+  "vim.statusBarColors.insert": "#bf72eb",
+  "vim.statusBarColors.normal": "#7e98bf",
+  "vim.statusBarColors.visual": "#a0aef2",
+  "vim.statusBarColors.visualline": "#a0aef2",
+  "vim.statusBarColors.visualblock": "#a0aef2",
+  "vim.useSystemClipboard": true,
+
+  "vim.statusBarColors.commandlineinprogress": "#7bbd5d",
+  "search.showLineNumbers": true,
+  "notebook.lineNumbers": "on",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jupyter.kernels.trusted": [
+    "/Users/michaelbernardrouimi/.pyenv/shims/python"
+  ],
+  "solidity.telemetry": true,
+  "notebook.output.textLineLimit": 100,
+  "fiveServer.navigate": false,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  }
+}

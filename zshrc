@@ -66,7 +66,7 @@ export PATH="~/.tmux/:${PATH}"
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
-export BUNDLER_EDITOR=code
+export BUNDLER_EDITOR=nvim
 export EDITOR=nvim
 
 # Set ipdb as the default Python debugger
